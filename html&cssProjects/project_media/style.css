@@ -1,0 +1,24 @@
+/* id selectors */
+
+.nav-item{
+    display: inline;
+}
+.search-bar {
+    margin-left: 500px;
+    height: 30px;
+    width: 400px;
+}
+
+#nav-bar{
+    background-color: thistle;
+}
+#logo{
+    height: 30px;
+    width: 40px;
+    padding-top: 35px;
+    padding-left: 20px;
+}
+
+#logo-title{
+    font-size: 35px;
+}
